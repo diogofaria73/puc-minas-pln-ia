@@ -1,0 +1,104 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Streamlit
+.streamlit/
+.streamlit/secrets.toml
+
+# Pipenv
+Pipfile.lock
+
+# Dados e Modelos
+modelo_treinado/
+nltk_data/
+**/downloaded_models/
+*.pt
+*.bin
+*.pkl
+*.h5
+*.ckpt
+
+# Datasets
+/data/
+data/*.csv
+data/*.xlsx
+data/*.json
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Arquivos temporários e de backup
+temp/
+tmp/
+*.bak
+requirements.txt.bak
+
+# Logs
+*.log
+
+# Outros
+/downloads/
+.cache/ 
